@@ -2,3 +2,9 @@
 
 ## [Reset Health](resetHealth.js)
 Resets health and gives invincibility for 3 seconds
+
+## [Click Answer](clickAnwer.js)
+Clicks the answer button for you
+
+## [Every Answer Correct](everyAnswerCorrect.js)
+Makes every answer correct
