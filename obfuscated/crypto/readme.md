@@ -1,5 +1,8 @@
 # Crypto Hack Cheats
 
+## [Always Quintuple Crypto](alwaysQuintupleCrypto.js)
+Every choice will be replaced with a custom made Quintuple Crypto option. Use this only after gaining some crypto!
+
 ## [Choice ESP](choiceESP.js)
 Shows what each choice will give you
 
